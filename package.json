@@ -1,0 +1,38 @@
+{
+  "name": "travel-blog",
+  "version": "1.0.0",
+  "description": "God's Own Trails - A beautiful, responsive travel blog showcasing the most stunning destinations in Kerala, India's 'God's Own Country.'",
+  "keywords": [
+    "travel",
+    "kerala",
+    "tourism",
+    "blog",
+    "destinations",
+    "travel-guide",
+    "responsive",
+    "html",
+    "css",
+    "bootstrap"
+  ],
+  "author": "Haseen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Haseenakts/travel-blog.git"
+  },
+  "homepage": "https://github.com/Haseenakts/travel-blog",
+  "bugs": {
+    "url": "https://github.com/Haseenakts/travel-blog/issues"
+  },
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 1%"
+  ]
+}
